@@ -472,7 +472,7 @@ section {
 
 .featured-shape {
 
-    background: var(--blue);
+    background: var(--pink);
 
     display: flex;
 
@@ -2335,7 +2335,7 @@ footer {
     align-items: center;
     min-height: 280px;
     padding: 40px;
-    background: var(--blue);
+    background: var(--pink);
     border: 1px solid var(--black);
     box-shadow: 7px 7px 0 var(--black);
     transition: .2s ease;
